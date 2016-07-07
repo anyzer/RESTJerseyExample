@@ -1,5 +1,7 @@
 package com.CrunchifyRESTJerseyExample.ClientClass;
 
+import org.json.simple.JSONObject;
+
 import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.ClientResponse;
 import com.sun.jersey.api.client.WebResource;
@@ -7,7 +9,8 @@ import com.sun.jersey.api.client.WebResource;
 
 public class App 
 {
-    public static void main( String[] args )
+    @SuppressWarnings({ "null", "unchecked" })
+	public static void main( String[] args )
     {
     	
     	System.out.println("Get Method");
@@ -40,16 +43,19 @@ public class App
     		WebResource webRes = clientPost
     				.resource("http://10.39.71.245:8080/CrunchifyRESTJerseyExample/crunchify/myservice/postTrack");
     		
-    		String input = "{\"singer\":\"Metallica\",\"title\":\"Fade To Black\"}";
+    		JSONObject input = new JSONObject();
+    		input.put("singer", "Metaallicaa");
+    		input.put("title", "Faade To Blaack");
     		
+    		//String input = "{\"singer\":\"Metallica\",\"title\":\"Fade To Black\"}";   		
     		ClientResponse response = webRes.type("application/json")
-    				   .post(ClientResponse.class, input);
+    				   .post(ClientResponse.class, input.toJSONString());
     		
     		if (response.getStatus() != 201) {
-    			throw new RuntimeException("Failed : HTTP error code : " + response.getStatus());
+    			throw new RuntimeException("Failed : HTTP error code : " + response.toString());
     		}
     		
-    		System.out.println("Output from Server .... \n");
+    		System.out.println("Output from Server .... ");
     		String output = response.getEntity(String.class);
     		System.out.println(output);
     		

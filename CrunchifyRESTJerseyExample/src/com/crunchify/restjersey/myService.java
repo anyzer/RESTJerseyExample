@@ -60,7 +60,7 @@ public class myService {
 	
 	
 	//http://10.39.71.245:8080/CrunchifyRESTJerseyExample/crunchify/myservice/postTrack
-	@GET
+	@POST
 	@Path("/postTrack")
 	@Consumes(MediaType.APPLICATION_JSON)
 	public Response createTrackInJSON(Track track){
