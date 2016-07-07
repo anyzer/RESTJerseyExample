@@ -1,0 +1,643 @@
+2016-07-06 18:30:35,153 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:35,934 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+2016-07-06 18:30:36,059 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+2016-07-06 18:30:36,403 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:36,715 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+2016-07-06 18:30:36,872 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+2016-07-06 18:30:37,122 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:37,418 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar
+2016-07-06 18:30:37,590 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar
+2016-07-06 18:30:37,809 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:38,231 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.3/maven-war-plugin-2.3.jar
+2016-07-06 18:30:38,668 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.3/maven-war-plugin-2.3.jar
+2016-07-06 18:30:38,887 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:39,200 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+2016-07-06 18:30:39,356 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+2016-07-06 18:30:39,559 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:39,903 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.jar
+2016-07-06 18:30:40,434 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.jar
+2016-07-06 18:30:41,731 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:30:41,856 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:42,137 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+2016-07-06 18:30:42,153 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+2016-07-06 18:30:42,325 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:42,606 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom
+2016-07-06 18:30:42,622 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom
+2016-07-06 18:30:42,840 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:43,122 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom
+2016-07-06 18:30:43,137 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom
+2016-07-06 18:30:43,293 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:43,590 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom
+2016-07-06 18:30:43,606 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom
+2016-07-06 18:30:43,762 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:44,059 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/20/maven-parent-20.pom
+2016-07-06 18:30:44,215 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/20/maven-parent-20.pom
+2016-07-06 18:30:44,387 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:44,684 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.3/maven-war-plugin-2.3.pom
+2016-07-06 18:30:44,684 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.3/maven-war-plugin-2.3.pom
+2016-07-06 18:30:45,309 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:45,606 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.5/plexus-io-2.0.5.pom
+2016-07-06 18:30:45,622 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.5/plexus-io-2.0.5.pom
+2016-07-06 18:30:45,809 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:46,122 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.2/plexus-archiver-2.2.pom
+2016-07-06 18:30:46,122 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.2/plexus-archiver-2.2.pom
+2016-07-06 18:30:46,293 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:46,590 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.20/plexus-components-1.1.20.pom
+2016-07-06 18:30:46,590 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.20/plexus-components-1.1.20.pom
+2016-07-06 18:30:46,778 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:47,075 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.7/plexus-utils-3.0.7.pom
+2016-07-06 18:30:47,075 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.7/plexus-utils-3.0.7.pom
+2016-07-06 18:30:47,251 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:47,548 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.4/plexus-io-2.0.4.pom
+2016-07-06 18:30:47,548 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.4/plexus-io-2.0.4.pom
+2016-07-06 18:30:47,720 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:48,017 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.3/xstream-1.4.3.pom
+2016-07-06 18:30:48,017 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.3/xstream-1.4.3.pom
+2016-07-06 18:30:48,189 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:48,486 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.3/xstream-parent-1.4.3.pom
+2016-07-06 18:30:48,626 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.3/xstream-parent-1.4.3.pom
+2016-07-06 18:30:48,829 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:49,126 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+2016-07-06 18:30:49,142 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+2016-07-06 18:30:49,314 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:49,611 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2016-07-06 18:30:49,611 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2016-07-06 18:30:49,783 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:50,079 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2016-07-06 18:30:50,079 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2016-07-06 18:30:50,345 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:50,642 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2016-07-06 18:30:50,642 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2016-07-06 18:30:50,829 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:51,142 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.5/plexus-io-2.0.5.jar
+2016-07-06 18:30:51,142 [New I/O client worker #24-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+2016-07-06 18:30:51,142 [New I/O client worker #24-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+2016-07-06 18:30:51,142 [New I/O client worker #24-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.3/xstream-1.4.3.jar
+2016-07-06 18:30:51,158 [New I/O client worker #24-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2016-07-06 18:30:51,158 [New I/O client worker #24-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.2/plexus-archiver-2.2.jar
+2016-07-06 18:30:51,158 [New I/O client worker #24-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2016-07-06 18:30:51,299 [New I/O client worker #24-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2016-07-06 18:30:51,329 [New I/O client worker #24-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2016-07-06 18:30:51,470 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.5/plexus-io-2.0.5.jar
+2016-07-06 18:30:51,845 [New I/O client worker #24-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.2/plexus-archiver-2.2.jar
+2016-07-06 18:30:52,205 [New I/O client worker #24-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.3/xstream-1.4.3.jar
+2016-07-06 18:30:54,402 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:54,699 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom
+2016-07-06 18:30:54,699 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom
+2016-07-06 18:30:54,871 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:55,168 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom
+2016-07-06 18:30:55,168 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom
+2016-07-06 18:30:55,387 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:30:55,699 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar
+2016-07-06 18:30:55,871 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar
+2016-07-06 18:30:56,183 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:30:56,183 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:30:56,199 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:30:56,199 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:30:56,246 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2016-07-06 18:30:56,246 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2016-07-06 18:30:57,090 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-06 18:30:57,152 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:30:57,371 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2016-07-06 18:30:57,371 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2016-07-06 18:30:57,697 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:30:57,791 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:30:57,806 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:30:57,806 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:30:57,822 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:30:57,822 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2016-07-06 18:30:57,822 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2016-07-06 18:30:57,822 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.4.1 is missing, no dependency information available
+2016-07-06 18:30:57,822 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.4.1: Plugin org.apache.maven.plugins:maven-clean-plugin:2.4.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-clean-plugin:jar:2.4.1
+2016-07-06 18:30:57,822 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.4.1 is missing, no dependency information available
+2016-07-06 18:30:57,822 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.4.1: Plugin org.apache.maven.plugins:maven-clean-plugin:2.4.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-clean-plugin:jar:2.4.1
+2016-07-06 18:30:57,837 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:30:58,181 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2016-07-06 18:30:58,228 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-07-06 18:30:59,009 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:30:59,212 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:30:59,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:30:59,228 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:30:59,228 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:31:17,350 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:31:17,366 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:31:17,881 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/asm/asm/3.3.1/asm-3.3.1.pom
+2016-07-06 18:31:17,897 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/asm/asm/3.3.1/asm-3.3.1.pom
+2016-07-06 18:31:18,084 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:31:18,402 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/asm/asm-parent/3.3.1/asm-parent-3.3.1.pom
+2016-07-06 18:31:18,402 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/asm/asm-parent/3.3.1/asm-parent-3.3.1.pom
+2016-07-06 18:31:18,621 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:31:18,949 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19.pom
+2016-07-06 18:31:19,108 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19.pom
+2016-07-06 18:31:19,296 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:31:19,624 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-project/1.19/jersey-project-1.19.pom
+2016-07-06 18:31:19,780 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-project/1.19/jersey-project-1.19.pom
+2016-07-06 18:31:19,968 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:31:20,280 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2016-07-06 18:31:20,296 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2016-07-06 18:31:20,483 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:31:20,812 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom
+2016-07-06 18:31:20,812 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom
+2016-07-06 18:31:20,999 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:31:21,327 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/json/json/20140107/json-20140107.pom
+2016-07-06 18:31:21,327 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/json/json/20140107/json-20140107.pom
+2016-07-06 18:31:21,515 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:31:21,843 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.19/jersey-server-1.19.pom
+2016-07-06 18:31:21,859 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.19/jersey-server-1.19.pom
+2016-07-06 18:31:22,046 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:31:22,374 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.19/jersey-core-1.19.pom
+2016-07-06 18:31:22,374 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.19/jersey-core-1.19.pom
+2016-07-06 18:31:22,577 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-06 18:31:22,905 [New I/O client worker #37-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar
+2016-07-06 18:31:22,905 [New I/O client worker #37-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19.jar
+2016-07-06 18:31:22,921 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/asm/asm/3.3.1/asm-3.3.1.jar
+2016-07-06 18:31:22,921 [New I/O client worker #37-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/json/json/20140107/json-20140107.jar
+2016-07-06 18:31:22,937 [New I/O client worker #37-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.19/jersey-server-1.19.jar
+2016-07-06 18:31:22,937 [New I/O client worker #37-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.19/jersey-core-1.19.jar
+2016-07-06 18:31:23,249 [New I/O client worker #37-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar
+2016-07-06 18:31:23,265 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/asm/asm/3.3.1/asm-3.3.1.jar
+2016-07-06 18:31:23,280 [New I/O client worker #37-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/json/json/20140107/json-20140107.jar
+2016-07-06 18:31:24,242 [New I/O client worker #37-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.19/jersey-server-1.19.jar
+2016-07-06 18:31:24,773 [New I/O client worker #37-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.19/jersey-core-1.19.jar
+2016-07-06 18:31:25,226 [New I/O client worker #37-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19.jar
+2016-07-06 18:31:26,164 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:31:26,164 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:31:26,180 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:31:26,180 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:31:26,180 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2016-07-06 18:31:26,180 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2016-07-06 18:31:26,180 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.4.1 is missing, no dependency information available
+2016-07-06 18:31:26,180 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.4.1: Plugin org.apache.maven.plugins:maven-clean-plugin:2.4.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-clean-plugin:jar:2.4.1
+2016-07-06 18:31:26,180 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.4.1 is missing, no dependency information available
+2016-07-06 18:31:26,180 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.4.1: Plugin org.apache.maven.plugins:maven-clean-plugin:2.4.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-clean-plugin:jar:2.4.1
+2016-07-06 18:31:26,180 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:33:03,266 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:33:03,266 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:33:03,266 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:33:03,266 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:33:34,259 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:33:34,259 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:33:34,275 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:33:34,275 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:35:41,768 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:35:41,768 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:35:41,783 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:35:41,783 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:36:07,407 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:36:07,407 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:36:07,407 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:36:07,407 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:36:08,485 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:36:08,485 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:36:08,485 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:36:08,485 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:36:22,503 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:36:22,519 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:36:22,519 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:36:22,519 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:36:32,999 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:36:32,999 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:36:32,999 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:36:32,999 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:36:53,940 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:36:53,956 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:36:53,956 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:36:53,956 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:37:11,227 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:37:11,227 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:37:11,227 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:37:11,242 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:38:10,613 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:38:10,613 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:38:10,613 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:38:10,628 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:38:29,660 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:38:29,660 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:38:29,676 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:38:29,676 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:38:40,334 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:38:40,334 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:38:40,334 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:38:40,350 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:38:47,896 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:38:47,896 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:38:47,896 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:38:47,896 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:39:01,250 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2016-07-06 18:39:01,487 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:39:01,487 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:39:01,487 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:39:01,487 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:39:27,084 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-06 18:39:27,193 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:39:27,443 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2016-07-06 18:39:27,443 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2016-07-06 18:39:27,975 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2016-07-06 18:39:27,975 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-06 18:39:28,303 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:39:28,584 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:39:28,600 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:39:28,600 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:39:28,600 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:39:43,957 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-06 18:40:33,136 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Test Workspace\CrunchifyRESTJerseyExample
+2016-07-06 18:40:33,136 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-07-06 18:43:24,615 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:43:24,615 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:43:24,615 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:43:24,615 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:46:47,018 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:46:47,018 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:46:47,018 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:46:47,018 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:46:58,398 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-06 18:46:58,492 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:46:58,820 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2016-07-06 18:46:58,820 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2016-07-06 18:46:59,336 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2016-07-06 18:46:59,352 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-06 18:46:59,680 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:46:59,883 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:46:59,883 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:46:59,883 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:46:59,883 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:47:36,022 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-06 18:47:36,115 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:47:36,381 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2016-07-06 18:47:36,397 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2016-07-06 18:47:36,897 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2016-07-06 18:47:36,912 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-06 18:47:37,193 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-06 18:47:37,428 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:47:37,428 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:47:37,428 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:47:37,428 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 18:47:46,925 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-06 18:48:04,495 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Test Workspace\CrunchifyRESTJerseyExample
+2016-07-06 18:48:04,495 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-07-06 18:52:14,337 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:52:14,337 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 18:52:14,337 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 18:52:14,337 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 19:02:15,456 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:02:15,471 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 19:02:15,471 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:02:15,471 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 19:02:35,339 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:02:35,339 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 19:02:35,355 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:02:35,355 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 19:03:06,049 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:03:06,049 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 19:03:06,049 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:03:06,049 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 19:03:14,062 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:03:14,062 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 19:03:14,062 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:03:14,062 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 19:10:24,130 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:10:24,130 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 19:10:24,130 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:10:24,144 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 19:11:50,106 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:11:50,121 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 19:11:50,121 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:11:50,121 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-06 19:12:44,347 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:12:44,347 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-06 19:12:44,347 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-06 19:12:44,347 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:26:01,358 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:26:01,358 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:26:01,358 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:26:01,358 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:30:47,238 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:30:47,238 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:30:47,238 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:30:47,238 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:32:54,105 [Worker-371] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:32:54,105 [Worker-371] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:32:54,105 [Worker-371] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:32:54,105 [Worker-371] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:32:58,418 [Worker-375] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:32:58,418 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:32:58,418 [Worker-375] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:32:58,418 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:36:52,107 [Worker-378] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:36:52,122 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:36:52,122 [Worker-378] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:36:52,122 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:37:00,216 [Worker-378] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:37:00,216 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:37:00,216 [Worker-378] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:37:00,216 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:37:08,571 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:37:08,586 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:37:08,586 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:37:08,586 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:52:05,713 [Worker-387] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:52:05,713 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:52:05,729 [Worker-387] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:52:05,729 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:54:43,463 [Worker-383] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:54:43,463 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:54:43,479 [Worker-383] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:54:43,479 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:55:23,687 [Worker-383] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:55:23,687 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:55:23,687 [Worker-383] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:55:23,687 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:55:54,276 [Worker-388] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:55:54,276 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:55:54,276 [Worker-388] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:55:54,276 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:55:59,604 [Worker-388] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:55:59,619 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:55:59,619 [Worker-388] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:55:59,619 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:56:03,041 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:56:03,041 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:56:03,041 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:56:03,041 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:56:05,338 [Worker-391] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:56:05,338 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:56:05,354 [Worker-391] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:56:05,354 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:56:37,010 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:56:37,010 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:56:37,010 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:56:37,010 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 10:57:06,727 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:57:06,727 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 10:57:06,742 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 10:57:06,742 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 11:00:44,429 [Worker-385] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-07 11:00:44,616 [Worker-385] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 11:00:44,944 [Worker-385] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2016-07-07 11:00:44,944 [Worker-385] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2016-07-07 11:00:45,663 [Worker-385] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2016-07-07 11:00:45,679 [Worker-385] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-07-07 11:00:46,100 [Worker-393] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 11:00:46,288 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:00:46,288 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 11:00:46,304 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:00:46,304 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 11:01:03,717 [Worker-391] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:01:03,717 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 11:01:03,717 [Worker-391] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:01:03,717 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 11:01:19,040 [Worker-395] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-07 11:01:19,165 [Worker-395] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 11:01:19,399 [Worker-395] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2016-07-07 11:01:19,415 [Worker-395] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2016-07-07 11:01:19,915 [Worker-395] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2016-07-07 11:01:19,931 [Worker-395] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-07 11:01:20,274 [Worker-361] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 11:01:20,603 [Worker-361] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:01:20,603 [Worker-361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 11:01:20,603 [Worker-361] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:01:20,603 [Worker-361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 11:01:32,243 [Worker-396] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-07 11:01:32,321 [Worker-396] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 11:01:32,540 [Worker-396] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2016-07-07 11:01:32,540 [Worker-396] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2016-07-07 11:01:33,009 [Worker-396] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2016-07-07 11:01:33,009 [Worker-396] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-07 11:01:33,352 [Worker-385] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 11:01:33,649 [Worker-385] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:01:33,649 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 11:01:33,649 [Worker-385] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:01:33,649 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 11:02:09,114 [Worker-388] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:02:09,129 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 11:02:09,129 [Worker-388] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:02:09,129 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 11:04:00,769 [Worker-396] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:04:00,784 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 11:04:00,784 [Worker-396] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:04:00,784 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 11:05:05,734 [Worker-395] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:05:05,734 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 11:05:05,734 [Worker-395] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 11:05:05,734 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:00:10,765 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:00:10,765 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:00:10,765 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:00:10,765 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:00:30,000 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:00:30,015 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:00:30,015 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:00:30,015 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:00:37,828 [Worker-419] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:00:37,828 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:00:37,828 [Worker-419] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:00:37,828 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:01:10,980 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:01:10,980 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:01:10,980 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:01:10,980 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:01:22,308 [Worker-419] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:01:22,308 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:01:22,324 [Worker-419] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:01:22,324 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:01:39,808 [Worker-444] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:01:39,808 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:01:39,808 [Worker-444] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:01:39,824 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:01:45,713 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:01:45,729 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:01:45,729 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:01:45,729 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:01:57,931 [Worker-443] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:01:57,931 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:01:57,931 [Worker-443] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:01:57,931 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:02:15,885 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:02:15,885 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:02:15,885 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:02:15,885 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:03:26,355 [Worker-445] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:03:26,355 [Worker-445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:03:26,355 [Worker-445] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:03:26,370 [Worker-445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:06:09,941 [Worker-445] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:06:09,941 [Worker-445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:06:09,957 [Worker-445] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:06:09,957 [Worker-445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:06:27,238 [Worker-419] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:06:27,238 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:06:27,238 [Worker-419] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:06:27,254 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:06:34,754 [Worker-445] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:06:34,754 [Worker-445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:06:34,754 [Worker-445] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:06:34,769 [Worker-445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:06:35,910 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:06:35,910 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:06:35,910 [Worker-442] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:06:35,910 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:07:03,469 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:07:03,469 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:07:03,469 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:07:03,469 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:09:09,673 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:09:09,673 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:09:09,673 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:09:09,673 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:09:15,189 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:09:15,189 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:09:15,189 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:09:15,189 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:10:46,872 [Worker-453] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:10:46,887 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:10:46,887 [Worker-453] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:10:46,887 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:10:51,912 [Worker-452] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:10:51,912 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:10:51,912 [Worker-452] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:10:51,912 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:12:40,103 [Worker-453] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 13:12:40,368 [Worker-453] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:12:40,384 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:12:40,384 [Worker-453] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:12:40,384 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:12:40,384 [Worker-453] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2016-07-07 13:12:40,384 [Worker-453] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2016-07-07 13:12:40,431 [Worker-453] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:12:43,931 [Worker-450] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 13:12:44,134 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:12:44,134 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:12:44,134 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:12:44,149 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:12:44,149 [Worker-450] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2016-07-07 13:12:44,149 [Worker-450] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2016-07-07 13:12:44,149 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:13:13,938 [Worker-447] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 13:13:13,984 [Worker-447] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:13:14,563 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.pom
+2016-07-07 13:13:14,563 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.pom
+2016-07-07 13:13:14,766 [Worker-447] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:13:15,141 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-project/1.8/jersey-project-1.8.pom
+2016-07-07 13:13:15,328 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-project/1.8/jersey-project-1.8.pom
+2016-07-07 13:13:15,578 [Worker-447] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:13:15,953 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.pom
+2016-07-07 13:13:15,953 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.pom
+2016-07-07 13:13:16,172 [Worker-447] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:13:16,547 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.pom
+2016-07-07 13:13:16,547 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.pom
+2016-07-07 13:13:16,828 [Worker-447] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:13:17,203 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.pom
+2016-07-07 13:13:17,203 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.pom
+2016-07-07 13:13:17,422 [Worker-447] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:13:17,781 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.pom
+2016-07-07 13:13:17,781 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.pom
+2016-07-07 13:13:17,984 [Worker-447] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:13:18,360 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.pom
+2016-07-07 13:13:18,360 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.pom
+2016-07-07 13:13:18,578 [Worker-447] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:13:18,953 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.pom
+2016-07-07 13:13:18,953 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.pom
+2016-07-07 13:13:19,172 [Worker-447] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:13:19,547 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.pom
+2016-07-07 13:13:19,547 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.pom
+2016-07-07 13:13:19,766 [Worker-447] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:13:20,156 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar
+2016-07-07 13:13:20,172 [New I/O client worker #47-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar
+2016-07-07 13:13:20,172 [New I/O client worker #47-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar
+2016-07-07 13:13:20,172 [New I/O client worker #47-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar
+2016-07-07 13:13:20,172 [New I/O client worker #47-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar
+2016-07-07 13:13:20,172 [New I/O client worker #47-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar
+2016-07-07 13:13:20,188 [New I/O client worker #47-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar
+2016-07-07 13:13:20,344 [New I/O client worker #47-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar
+2016-07-07 13:13:20,359 [New I/O client worker #47-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar
+2016-07-07 13:13:20,375 [New I/O client worker #47-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar
+2016-07-07 13:13:20,922 [New I/O client worker #47-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar
+2016-07-07 13:13:21,109 [New I/O client worker #47-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar
+2016-07-07 13:13:21,453 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar
+2016-07-07 13:13:22,063 [New I/O client worker #47-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar
+2016-07-07 13:13:22,922 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:13:22,922 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:13:22,922 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:13:22,922 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:13:22,922 [Worker-447] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2016-07-07 13:13:22,922 [Worker-447] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2016-07-07 13:13:22,922 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:13:24,531 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:13:24,531 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:13:24,531 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:13:24,531 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:16:31,164 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:16:31,164 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:16:31,180 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:16:31,180 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:17:20,828 [Worker-451] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:17:20,828 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:17:20,844 [Worker-451] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:17:20,844 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:17:50,455 [Worker-452] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:17:50,455 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:17:50,471 [Worker-452] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:17:50,471 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:18:17,772 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:18:17,772 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:18:17,772 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:18:17,772 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:19:21,911 [Worker-455] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:19:21,911 [Worker-455] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:19:21,911 [Worker-455] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:19:21,911 [Worker-455] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:19:32,693 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:19:32,693 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:19:32,693 [Worker-450] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:19:32,693 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:21:01,244 [Worker-452] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:21:01,244 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:21:01,260 [Worker-452] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:21:01,260 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:21:13,229 [Worker-453] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:21:13,229 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:21:13,244 [Worker-453] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:21:13,244 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:25:01,488 [Worker-451] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:25:01,488 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:25:01,488 [Worker-451] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:25:01,488 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:25:34,645 [Worker-452] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:25:34,645 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:25:34,645 [Worker-452] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:25:34,661 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:25:50,942 [Worker-451] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:25:50,942 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:25:50,942 [Worker-451] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:25:50,942 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:26:41,038 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:26:41,038 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:26:41,038 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:26:41,038 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:27:34,184 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:27:34,184 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:27:34,184 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:27:34,184 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:27:55,988 [Worker-461] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:27:55,988 [Worker-461] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:27:55,988 [Worker-461] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:27:55,988 [Worker-461] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:27:57,160 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:27:57,160 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:27:57,160 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:27:57,160 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:28:03,816 [Worker-456] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:28:03,816 [Worker-456] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:28:03,816 [Worker-456] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:28:03,832 [Worker-456] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:28:12,772 [Worker-457] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-07 13:28:13,004 [Worker-457] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 13:28:13,457 [Worker-457] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2016-07-07 13:28:13,457 [Worker-457] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2016-07-07 13:28:14,019 [Worker-457] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2016-07-07 13:28:14,019 [Worker-457] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-07-07 13:28:14,458 [Worker-447] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Test Workspace\CrunchifyRESTJerseyExample\pom.xml.
+2016-07-07 13:28:14,786 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:28:14,786 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-07 13:28:14,786 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:28:14,786 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources

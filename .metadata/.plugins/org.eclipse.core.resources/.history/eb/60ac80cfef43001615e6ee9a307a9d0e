@@ -1,0 +1,39 @@
+package com.crunchify.restjersey;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.Response;
+import javax.ws.rs.core.MediaType;
+
+@Path("/myservice")
+public class myService {
+
+	//http://localhost:8080/CrunchifyRESTJerseyExample/crunchify/myservice/
+	//http://10.39.71.245:8080/CrunchifyRESTJerseyExample/crunchify/myservice/Chen
+	
+	@GET
+	@Path("/{param}")
+	public Response getMsg(@PathParam("param") String msg){
+		
+		String output = "Jersey say: " + msg;
+		if(msg.equals("Chen")){
+			return Response.status(200).entity(output).build();
+		}else{
+			return Response.status(600).entity("Incorrect Param").build();
+		}		
+	}
+	
+	
+	@GET
+	@Path("/{pin}")
+	@Produces(MediaType.APPLICATION_XML)
+	public Customer getCustomerInXML(@PathParam("pin") int pin){
+		
+		Customer customer = new Customer();
+		
+	}
+	
+	
+}
