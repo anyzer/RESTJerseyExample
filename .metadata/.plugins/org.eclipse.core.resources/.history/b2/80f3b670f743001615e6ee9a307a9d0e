@@ -1,0 +1,15 @@
+package com.CrunchifyRESTJerseyExample.ClientClass;
+
+import com.sun.jersey.api.client.Client;
+
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	
+    	Client client = Client.create();
+    	
+        
+    }
+}

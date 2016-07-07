@@ -641,3 +641,279 @@
 2016-07-07 13:28:14,786 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
 2016-07-07 13:28:14,786 [Worker-447] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-07-07 13:28:14,786 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-07 13:44:52,822 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:44:53,291 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2016-07-07 13:44:53,306 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2016-07-07 13:45:33,877 [Worker-469] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Test Workspace\com.crunchify.RESTClient\pom.xml
+2016-07-07 13:45:33,970 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:34,408 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar
+2016-07-07 13:45:34,611 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar
+2016-07-07 13:45:34,861 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:35,252 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2016-07-07 13:45:35,470 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2016-07-07 13:45:35,720 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:36,080 [New I/O client worker #51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom
+2016-07-07 13:45:36,095 [New I/O client worker #51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom
+2016-07-07 13:45:36,455 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:36,830 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom
+2016-07-07 13:45:36,830 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom
+2016-07-07 13:45:37,033 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:37,408 [New I/O client worker #53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom
+2016-07-07 13:45:37,408 [New I/O client worker #53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom
+2016-07-07 13:45:37,658 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:38,033 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom
+2016-07-07 13:45:38,033 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom
+2016-07-07 13:45:38,236 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:38,611 [New I/O client worker #55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom
+2016-07-07 13:45:38,611 [New I/O client worker #55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom
+2016-07-07 13:45:38,814 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:39,189 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom
+2016-07-07 13:45:39,189 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom
+2016-07-07 13:45:39,408 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:39,784 [New I/O client worker #57-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar
+2016-07-07 13:45:39,798 [New I/O client worker #57-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar
+2016-07-07 13:45:39,798 [New I/O client worker #57-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar
+2016-07-07 13:45:39,798 [New I/O client worker #57-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar
+2016-07-07 13:45:39,798 [New I/O client worker #57-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar
+2016-07-07 13:45:39,986 [New I/O client worker #57-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar
+2016-07-07 13:45:40,423 [Worker-469] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTClient:com.crunchify.RESTClient:0.0.1-SNAPSHOT @ C:\Test Workspace\com.crunchify.RESTClient\pom.xml.
+2016-07-07 13:45:40,439 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:40,814 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+2016-07-07 13:45:40,814 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+2016-07-07 13:45:41,017 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:41,377 [New I/O client worker #59-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom
+2016-07-07 13:45:41,377 [New I/O client worker #59-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom
+2016-07-07 13:45:41,673 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:42,048 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+2016-07-07 13:45:42,048 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+2016-07-07 13:45:42,267 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:42,642 [New I/O client worker #61-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+2016-07-07 13:45:42,642 [New I/O client worker #61-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+2016-07-07 13:45:42,861 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:43,220 [New I/O client worker #62-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+2016-07-07 13:45:43,236 [New I/O client worker #62-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+2016-07-07 13:45:43,502 [Worker-469] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:45:43,877 [New I/O client worker #63-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+2016-07-07 13:45:43,892 [New I/O client worker #63-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+2016-07-07 13:45:43,892 [New I/O client worker #63-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+2016-07-07 13:45:44,080 [New I/O client worker #63-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+2016-07-07 13:45:44,298 [New I/O client worker #63-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+2016-07-07 13:45:44,767 [New I/O client worker #63-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+2016-07-07 13:45:45,455 [Worker-469] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.crunchify.RESTClient/src/main/java
+2016-07-07 13:45:45,455 [Worker-469] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.crunchify.RESTClient/src/test/java
+2016-07-07 13:45:45,595 [Worker-469] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 11 sec
+2016-07-07 13:45:45,939 [Worker-472] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTClient:com.crunchify.RESTClient:0.0.1-SNAPSHOT @ C:\Test Workspace\com.crunchify.RESTClient\pom.xml.
+2016-07-07 13:45:46,689 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:45:46,689 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\com.crunchify.RESTClient\src\main\resources
+2016-07-07 13:45:46,720 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:45:46,720 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\com.crunchify.RESTClient\src\test\resources
+2016-07-07 13:50:19,997 [Worker-472] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Test Workspace\com.crunchify.RESTClient\pom.xml
+2016-07-07 13:50:20,106 [Worker-472] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:com.crunchify.RESTClient:0.0.1-SNAPSHOT @ C:\Test Workspace\com.crunchify.RESTClient\pom.xml.
+2016-07-07 13:50:20,231 [Worker-472] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.crunchify.RESTClient/src/main/java
+2016-07-07 13:50:20,247 [Worker-472] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.crunchify.RESTClient/src/test/java
+2016-07-07 13:50:20,372 [Worker-472] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2016-07-07 13:50:20,903 [Worker-468] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:com.crunchify.RESTClient:0.0.1-SNAPSHOT @ C:\Test Workspace\com.crunchify.RESTClient\pom.xml.
+2016-07-07 13:50:21,090 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:50:21,090 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\com.crunchify.RESTClient\src\main\resources
+2016-07-07 13:50:21,090 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:50:21,090 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\com.crunchify.RESTClient\src\test\resources
+2016-07-07 13:50:21,544 [Worker-468] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:com.crunchify.RESTClient:0.0.1-SNAPSHOT @ C:\Test Workspace\com.crunchify.RESTClient\pom.xml.
+2016-07-07 13:50:22,153 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:50:22,153 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\com.crunchify.RESTClient\src\main\resources
+2016-07-07 13:50:22,153 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:50:22,153 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\com.crunchify.RESTClient\src\test\resources
+2016-07-07 13:51:41,278 [Worker-477] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Test Workspace\ClientClass\pom.xml
+2016-07-07 13:51:41,371 [Worker-477] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.CrunchifyRESTJerseyExample:ClientClass:0.0.1-SNAPSHOT @ C:\Test Workspace\ClientClass\pom.xml.
+2016-07-07 13:51:41,496 [Worker-477] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClientClass/src/main/java
+2016-07-07 13:51:41,512 [Worker-477] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClientClass/src/test/java
+2016-07-07 13:51:41,653 [Worker-477] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2016-07-07 13:51:42,184 [Worker-468] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.CrunchifyRESTJerseyExample:ClientClass:0.0.1-SNAPSHOT @ C:\Test Workspace\ClientClass\pom.xml.
+2016-07-07 13:51:42,371 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:51:42,387 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 13:51:42,387 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:51:42,387 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 13:51:42,778 [Worker-477] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.CrunchifyRESTJerseyExample:ClientClass:0.0.1-SNAPSHOT @ C:\Test Workspace\ClientClass\pom.xml.
+2016-07-07 13:51:43,668 [Worker-461] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:51:43,668 [Worker-461] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 13:51:43,668 [Worker-461] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:51:43,668 [Worker-461] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 13:53:02,695 [Worker-468] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.CrunchifyRESTJerseyExample:ClientClass:0.0.1-SNAPSHOT @ C:\Test Workspace\ClientClass\pom.xml.
+2016-07-07 13:53:02,945 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:53:02,945 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 13:53:02,945 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:53:02,945 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 13:53:04,164 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:53:04,164 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 13:53:04,164 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:53:04,164 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 13:55:04,001 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:55:04,001 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 13:55:04,017 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:55:04,017 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 13:55:53,424 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:55:53,424 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 13:55:53,424 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:55:53,424 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 13:56:23,264 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:56:23,264 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 13:56:23,264 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:56:23,264 [Worker-475] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 13:59:13,340 [Worker-480] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.CrunchifyRESTJerseyExample:ClientClass:0.0.1-SNAPSHOT @ C:\Test Workspace\ClientClass\pom.xml.
+2016-07-07 13:59:13,340 [Worker-480] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:59:13,856 [New I/O client worker #64-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-client/1.8/jersey-client-1.8.pom
+2016-07-07 13:59:13,856 [New I/O client worker #64-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-client/1.8/jersey-client-1.8.pom
+2016-07-07 13:59:14,137 [Worker-480] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-07-07 13:59:14,450 [New I/O client worker #65-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-client/1.8/jersey-client-1.8.jar
+2016-07-07 13:59:15,153 [New I/O client worker #65-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-client/1.8/jersey-client-1.8.jar
+2016-07-07 13:59:15,513 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:59:15,513 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 13:59:15,513 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:59:15,513 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 13:59:15,747 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:59:15,747 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 13:59:15,747 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 13:59:15,747 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:00:03,386 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:00:03,386 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:00:03,386 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:00:03,386 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:00:14,526 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:00:14,526 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:00:14,542 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:00:14,542 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:01:11,090 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:01:11,090 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:01:11,090 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:01:11,090 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:01:56,484 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:01:56,484 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:01:56,484 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:01:56,484 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:03:37,295 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:03:37,311 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:03:37,311 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:03:37,311 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:03:39,264 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:03:39,264 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:03:39,264 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:03:39,264 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:03:52,358 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:03:52,358 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:03:52,358 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:03:52,358 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:05:23,303 [Worker-478] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:05:23,303 [Worker-478] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:05:23,303 [Worker-478] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:05:23,303 [Worker-478] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:05:25,053 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:05:25,053 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:05:25,053 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:05:25,053 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:05:47,966 [Worker-481] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:05:47,966 [Worker-481] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:05:47,966 [Worker-481] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:05:47,966 [Worker-481] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:05:50,075 [Worker-478] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:05:50,075 [Worker-478] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:05:50,091 [Worker-478] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:05:50,091 [Worker-478] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:06:23,865 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:06:23,865 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:06:23,880 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:06:23,880 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:07:35,398 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:07:35,398 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:07:35,398 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:07:35,398 [Worker-476] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:07:59,714 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:07:59,714 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:07:59,714 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:07:59,714 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:08:18,527 [Worker-485] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:08:18,527 [Worker-485] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:08:18,527 [Worker-485] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:08:18,527 [Worker-485] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:08:30,886 [Worker-484] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:08:30,886 [Worker-484] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:08:30,886 [Worker-484] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:08:30,886 [Worker-484] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:10:21,450 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:10:21,450 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:10:21,450 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:10:21,450 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:10:43,216 [Worker-487] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:10:43,216 [Worker-487] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:10:43,216 [Worker-487] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:10:43,216 [Worker-487] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:33:57,601 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:33:57,601 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:33:57,601 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:33:57,601 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:34:24,867 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:34:24,867 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:34:24,867 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:34:24,867 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:34:35,626 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:34:35,626 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:34:35,626 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:34:35,626 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:35:04,053 [Worker-497] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:35:04,053 [Worker-497] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:35:04,053 [Worker-497] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:35:04,053 [Worker-497] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:35:09,834 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:35:09,834 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:35:09,834 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:35:09,834 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:35:42,136 [Worker-489] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:35:42,136 [Worker-489] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:35:42,136 [Worker-489] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:35:42,136 [Worker-489] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:35:52,511 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:35:52,511 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:35:52,511 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:35:52,511 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:36:19,367 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:36:19,367 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:36:19,367 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:36:19,367 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:36:24,492 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:36:24,492 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:36:24,507 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:36:24,507 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:36:27,585 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:36:27,585 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:36:27,585 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:36:27,585 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:38:38,074 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:38:38,074 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:38:38,074 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:38:38,074 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:38:44,730 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:38:44,730 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:38:44,730 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:38:44,730 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:38:59,706 [Worker-491] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:38:59,706 [Worker-491] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:38:59,706 [Worker-491] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:38:59,706 [Worker-491] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:39:46,972 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:39:46,972 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:39:46,972 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:39:46,972 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:40:05,109 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:40:05,109 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:40:05,109 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:40:05,109 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:48:31,792 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:48:31,792 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:48:31,792 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:48:31,792 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:48:57,609 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:48:57,609 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:48:57,609 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:48:57,609 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-07 14:50:17,798 [Worker-504] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:50:17,813 [Worker-504] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-07 14:50:17,813 [Worker-504] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-07 14:50:17,813 [Worker-504] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
