@@ -990,3 +990,20 @@
 2016-07-07 17:02:19,210 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
 2016-07-07 17:02:19,210 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-07-07 17:02:19,210 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-08 16:38:22,267 [Worker-1083] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.CrunchifyRESTJerseyExample:ClientClass:0.0.1-SNAPSHOT @ C:\Test Workspace\ClientClass\pom.xml.
+2016-07-08 16:38:22,626 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-08 16:38:22,626 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\main\resources
+2016-07-08 16:38:22,626 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-08 16:38:22,626 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\ClientClass\src\test\resources
+2016-07-11 15:39:47,747 [Worker-2330] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-11 15:39:47,747 [Worker-2330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-11 15:39:47,747 [Worker-2330] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-11 15:39:47,747 [Worker-2330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-11 15:40:42,905 [Worker-2328] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-11 15:40:42,905 [Worker-2328] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-11 15:40:42,905 [Worker-2328] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-11 15:40:42,920 [Worker-2328] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources
+2016-07-11 15:40:45,889 [Worker-2303] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-11 15:40:45,889 [Worker-2303] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\main\resources
+2016-07-11 15:40:45,905 [Worker-2303] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-11 15:40:45,905 [Worker-2303] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Test Workspace\CrunchifyRESTJerseyExample\src\test\resources

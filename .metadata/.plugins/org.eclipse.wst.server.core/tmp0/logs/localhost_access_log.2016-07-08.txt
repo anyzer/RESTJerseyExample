@@ -1,0 +1,5 @@
+10.26.39.168 - - [08/Jul/2016:12:10:09 +1000] "GET /CrunchifyRESTJerseyExample/crunchify/myservice/getTrack HTTP/1.1" 200 57
+10.39.30.140 - - [08/Jul/2016:12:26:43 +1000] "GET /CrunchifyRESTJerseyExample/crunchify/myservice/getTrack HTTP/1.1" 200 57
+10.39.30.140 - - [08/Jul/2016:12:26:43 +1000] "GET /favicon.ico HTTP/1.1" 404 973
+10.39.30.140 - - [08/Jul/2016:12:26:44 +1000] "GET /favicon.ico HTTP/1.1" 404 973
+10.26.39.168 - - [08/Jul/2016:16:47:50 +1000] "GET /CrunchifyRESTJerseyExample/crunchify/myservice/getTrack HTTP/1.1" 200 57
